@@ -6,7 +6,7 @@
              x:Class="MAUIChartBindingDemo.MainPage">
 
     <Grid>
-        <chart:SfCartesianChart Title="Olympic Games Medal Details" Margin="20">
+        <chart:SfCartesianChart Title="Olympic Games Tokyo 2020" Margin="20">
             <chart:SfCartesianChart.BindingContext>
                 <local:ViewModel />
             </chart:SfCartesianChart.BindingContext>
