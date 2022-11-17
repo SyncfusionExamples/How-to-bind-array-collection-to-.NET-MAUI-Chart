@@ -1,6 +1,4 @@
-﻿using Syncfusion.Maui.Charts;
-
-namespace MAUIChartBindingDemo;
+﻿namespace MAUIChartBindingDemo;
 
 public partial class MainPage : ContentPage
 {
